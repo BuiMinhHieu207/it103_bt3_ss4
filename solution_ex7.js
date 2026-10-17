@@ -1,4 +1,3 @@
-// solution_ex7.js
 
 // 1. Khai báo các hằng số tài chính
 const BASE_PRICE = 30000; // Giả định giá cơ bản là 30.000 VNĐ
